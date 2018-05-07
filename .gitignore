@@ -1,2 +1,3 @@
 # Exclude anything in the data file
 /data
+.Rproj.user
